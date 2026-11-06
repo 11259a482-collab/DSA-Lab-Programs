@@ -1,0 +1,54 @@
+Output:
+--- MAXIMUM PRIORITY QUEUE ---
+1. Insert
+2. Delete Maximum
+3. Display
+4. Exit
+Enter choice: 1
+Enter value: 55
+55 inserted
+--- MAXIMUM PRIORITY QUEUE ---
+1. Insert
+2. Delete Maximum
+3. Display
+4. Exit
+Enter choice:
+1
+Enter value: 47
+47 inserted
+--- MAXIMUM PRIORITY QUEUE ---
+1. Insert
+2. Delete Maximum
+3. Display
+4. Exit
+Enter choice: 1
+Enter value: 81
+81 inserted
+--- MAXIMUM PRIORITY QUEUE --
+1. Insert
+2. Delete Maximum
+3. Display
+4. Exit
+Enter choice: 1
+Enter value: 69
+69 inserted
+--- MAXIMUM PRIORITY QUEUE ---
+1. Insert
+2. Delete Maximum
+3. Display
+4. Exit
+Enter choice: 3
+Queue: 55 47 81 69
+--- MAXIMUM PRIORITY QUEUE ---
+1. Insert
+2. Delete Maximum
+3. Display
+4. Exit
+Enter choice: 2
+Deleted element: 81
+--- MAXIMUM PRIORITY QUEUE ---
+1. Insert
+2. Delete Maximum
+3. Display
+4. Exit
+Enter choice: 
